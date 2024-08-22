@@ -1,0 +1,106 @@
+ .features {
+    margin-left: 190px;
+    margin-top: 23px;
+    text-decoration: solid underline;
+    color: rgb(34, 3, 88);
+    background-color: rgb(172, 172, 165);
+    display: inline;
+    font-size: 27px;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+
+
+ }   
+ .features h2{
+    display: flex;
+    margin-top: 23px;
+    align-items: center;
+    padding-left: 250px;
+    box-shadow: 2px;
+ }
+
+ .home {
+    border: 200px;
+    border-radius: 5px;
+    margin: 30px 30px;
+    padding: 30px 30px;
+    background-color: rgb(227, 225, 236);
+    color: rgb(26, 6, 42);
+    width: 500px;
+    height:500px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+ }
+ *{
+    box-sizing: border-box;
+    border-radius: 4px;
+    
+ }
+.main{
+    display: flex;
+    align-items: center;
+    background-color:whitesmoke;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-image: url(imageblur.webp);
+    background-size: cover;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /*.cursor {
+    mask-type: alpha;
+    color: aqua;
+}
+.top {
+    height: 30px;
+    width:  25px;
+    justify-content: left;
+}
+
+#nav {
+    color: rgb(17, 17, 16);
+    background-color:bisque;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 20px 20px;
+} 
+#navpart2 {
+    color: rgb(1, 14, 26);
+    background-color: antiquewhite;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 1px;
+}  -->
